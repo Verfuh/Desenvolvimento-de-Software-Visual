@@ -14,4 +14,4 @@ Fornecedores tem disponível os menus: Catálogo, Criação de produtos, Atualiz
 
 As senhas de usuários compradores e Fornecedores são criptografadas utilizando bcrypt.
 
-Design do WebSite pode ser feita que preferir.
+Design do WebSite pode ser feita da forma que preferir.
