@@ -1,2 +1,12 @@
 Feito commit com o arquivo zipado, pois estava com problemas no LFS para realizar o commit correto.
-Peço desculpas e agradeço pela compreensão.
+
+WebSite E-Commerce completo.
+feito em Node.js utilizando os seguintes frameworks:
+Express, Sequelize, React e MySQL.
+
+FUNCIONALIDADE.
+Possível criação de usuários, compradores e fornecedores.
+Compradores tem disponível os menus. Catálogo e Carrinho.
+Fornecedores tem disponível os menus. Catálogo, Criação de produtos, Atualização de Produtos e exclusão de produtos.
+
+Todos as senhas são criptografadas utilizando 
