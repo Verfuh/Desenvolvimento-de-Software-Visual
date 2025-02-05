@@ -9,4 +9,4 @@ Possível criação de usuários, compradores e fornecedores.
 Compradores tem disponível os menus. Catálogo e Carrinho.
 Fornecedores tem disponível os menus. Catálogo, Criação de produtos, Atualização de Produtos e exclusão de produtos.
 
-Todos as senhas são criptografadas utilizando 
+As senhas de usuários compradores e Fornecedores são criptografadas utilizando bcrypt.
